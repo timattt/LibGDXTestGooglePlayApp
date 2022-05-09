@@ -1,8 +1,6 @@
 # Pingpong
 
-A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).
-
-This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
+Мой первый проект на android. И первая программа, опубликованная в [google play](https://play.google.com/store/apps/details?id=com.timattt.pingpong).
 
 ## Gradle
 
